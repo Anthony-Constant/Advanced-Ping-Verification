@@ -26,4 +26,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Acknowledgements
 
-This script was created by [Anthony Constant](https://anthonyconstant.co.uk/). If you have any questions or suggestions, you can contact him at [anthonyconstant.co.uk](https://anthonyconstant.co.uk/).
+This script was created by [Anthony Constant](https://anthonyconstant.co.uk/). 
