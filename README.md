@@ -20,6 +20,10 @@ The script uses the `os` module to execute the Ping command in the command promp
 
 If you would like to learn more about Ping and Traceroute commands, you can refer to the following link: [Ping and Traceroute - Cisco](https://www.cisco.com/c/en/us/support/docs/ios-nx-os-software/ios-software-releases-121-mainline/12778-ping-traceroute.html)
 
+## Demo
+
+https://youtu.be/5r-wPG667QQ
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
